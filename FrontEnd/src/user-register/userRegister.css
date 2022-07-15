@@ -1,0 +1,63 @@
+
+  
+
+.RegisterHead {
+  margin-left: 42%;
+  margin-top: 60px;
+}
+
+.RegisterContainer {
+  width: 40%;
+  height:675%;
+  /*height: 670px;*/
+  border-color: #2a90cf;
+  margin-left: 30%;
+  margin-top: 4%;
+  border: 2px solid #2a90cf;
+  border-radius: 10px;
+  
+}
+
+.RegisterData {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.RegisterText {
+  width: 90%;
+  height: 37px;
+  border-radius: 5px; 
+  border: 1px solid #2a90cf;
+}
+
+.RegisterDropdown {
+  width: 20%;
+  height: 37px;
+  border-radius: 5px;
+  border-color: #2a90cf;
+}
+
+.RegisterButton {
+  margin-left: 37%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 44px;
+  width: 20%;
+  font-size: large;
+  background-color: white;
+  border: 3px solid #8ac2e6;
+  color: #2a90cf;
+  border-radius: 5px;
+}
+
+.RegisterButton:hover {
+  background-color: #2a90cf;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.a1{
+  margin-left:10px;
+  margin-top:8px;
+  margin-bottom:20px;
+}

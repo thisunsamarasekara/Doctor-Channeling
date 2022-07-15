@@ -1,0 +1,12 @@
+.main-footer{
+    color: white;
+    background-color: rgb(54, 54, 238);
+    padding-top: 5em;
+    padding-bottom: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,0 +1,54 @@
+.PatientContainer {
+    width: 50%;
+    height: 500px;
+    border-color: #2a90cf;
+    margin-left: 25%;
+    margin-top: 2%;
+    border: 2px solid #2a90cf;
+    border-radius: 10px;
+}
+
+.PatientData {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.PatientSubmit {
+    margin-left: 40%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 20%;
+    font-size: large;
+    background-color: white;
+    border: 3px solid #8ac2e6;
+    color: #2a90cf;
+    border-radius: 5px;
+}
+
+.PatientSubmit:hover {
+    background-color: #2a90cf;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.PatientText {
+    width: 90%;
+    height: 37px;
+    border-radius: 5px; 
+    border: 1px solid #2a90cf;
+    
+}
+
+.PatientDropdown {
+    width: 20%;
+    height: 37px;
+    border-radius: 5px;
+    border-color: #2a90cf;
+}
+
+.ChannelHeading {
+    margin-left: 44%;
+    margin-top: 100px;
+}

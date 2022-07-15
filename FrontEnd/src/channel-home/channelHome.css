@@ -1,0 +1,73 @@
+section {
+  display: table;
+}
+
+.example-label {
+  display: table-cell;
+  font-size: 14px;
+  margin-left: 8px;
+  min-width: 120px;
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 490px;
+}
+
+.example-button-row .mat-button-base {
+  margin: 8px 8px 8px 0;
+}
+
+.example-flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.example-button-container {
+  display: flex;
+  justify-content: center;
+  width: 120px;
+}
+
+#HomeButton {
+  background-color: white;
+  border: 3px solid #8ac2e6;
+  width: 280%;
+  height: 75px;
+  color: #2a90cf;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 7px;
+  font-weight: bold;
+  
+}  
+
+#HomeButton:hover {
+  background-color: #2a90cf;
+  color: white;
+  cursor: pointer;
+  
+}
+
+.HomeContainer {
+    width: 30%;
+    height: 560px;
+    border-color: #2a90cf;
+    margin-left: 36%;
+    margin-top: 13%;
+    border: 2px solid #2a90cf;
+    border-radius: 5%;
+}
+
+.ButtonSection {
+    margin-bottom: 20px;
+    margin-left: 22%;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.UserNameSection{
+  margin-right: 50px;
+  margin-top: 20px;
+}
